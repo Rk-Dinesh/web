@@ -1,0 +1,21 @@
+body {
+    background-color: aliceblue;
+}
+.fa {
+    color:blue;
+}
+.text {
+    margin: 20px 5px;
+}
+a {
+    border-bottom: 2px solid blue;
+}
+.box-inside {
+    background-color: white;
+    text-align: center;
+    padding: 50px 10px;
+    margin: 40px 10px;
+}
+.box {
+    padding: 60px,5px;
+}
